@@ -1,2 +1,1 @@
-Adding a line of text.
-Branch conflict test.
+Simulating merge conflict-3-2-1.
