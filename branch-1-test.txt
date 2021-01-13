@@ -1,1 +1,2 @@
 Adding a line of text.
+Simulating merge conflict-2.
